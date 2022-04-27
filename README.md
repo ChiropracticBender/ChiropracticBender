@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @ChiropracticBender
-- 👀 I’m interested in Discord Development...
-- 🌱 I’m currently learning JavaScript...
+- 🐋 Fascinated with Docker
+- 🚦 Experimenting with Traefik 
+- 💎 Experimenting with Ruby on Rails
